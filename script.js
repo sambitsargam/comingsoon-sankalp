@@ -75,7 +75,7 @@
 //Provide the plugin settings
 $("#countdown").countdown({
         //The countdown end date
-        date: "4 March 2024 12:00:00",
+        date: "4 March 2024 22:00:00",
 
         // on (03:07:52) | off (3:7:52) - two_digits set to ON maintains layout consistency
         format: "on"
